@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/HackTheBox/Lessons Learned.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "569d742402806552",
+  "active": "3ab3c7264c92bfc6",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240906213828.png",
+    "README.md",
+    "Attachments/Pasted image 20240906224342.png",
+    "Resources/Exam Details.md",
+    "Resources/Communities.md",
+    "Writeups/HackTheBox/Lessons Learned.md",
     "Writeups/Proving Grounds/Windows/Windows Index.md",
     "Writeups/Proving Grounds/Windows/Internal/05 - Enumeration.md",
     "Writeups/Proving Grounds/Windows/Internal/Internal Index.md",
     "Writeups/Proving Grounds/Windows/Internal/00 - Overview.md",
     "Writeups/Proving Grounds/Proving Grounds Index.md",
     "Writeups/Proving Grounds/Linux/Linux Index.md",
-    "Writeups/HackTheBox/Lessons Learned.md",
-    "README.md",
-    "Attachments/Pasted image 20240906224342.png",
-    "Attachments/Pasted image 20240906213828.png",
     "Writeups/Proving Grounds/Windows/Internal/Lessons Learned.md",
     "Attachments/Pasted image 20240906223523.png",
     "Writeups/TryHackMe/Lessons Learned.md",
@@ -177,8 +179,6 @@
     "Writeups/Proving Grounds/Windows.md",
     "Exam/AD/Client 1/05 - Enumeration.md",
     "Exam/AD/Client 1/00 - Overview.md",
-    "Resources/Reports Templates.md",
-    "Resources/Exam Tips.md",
     "Projects/Malware",
     "Writeups/TryHackMe",
     "Writeups/HackTheBox",
