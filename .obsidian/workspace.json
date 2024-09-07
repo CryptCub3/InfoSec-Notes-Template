@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "27e886b789487ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3010ee37ed3d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab3c7264c92bfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "598000178d7aa958",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee28c85691d6178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "569d742402806552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aad0aed8576b874",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b506989a0eef8328",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a918adc599c6073",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d9ca9ebfbf7a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efae9aeae2035b8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "663f72b10b406762",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writeups/HackTheBox/Lessons Learned.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36b871ec6fc3616f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7fc67cbe709f5c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writeups/HackTheBox/Lessons Learned.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "569d742402806552",
+  "lastOpenFiles": [
+    "Writeups/Proving Grounds/Windows/Windows Index.md",
+    "Writeups/Proving Grounds/Windows/Internal/05 - Enumeration.md",
+    "Writeups/Proving Grounds/Windows/Internal/Internal Index.md",
+    "Writeups/Proving Grounds/Windows/Internal/00 - Overview.md",
+    "Writeups/Proving Grounds/Proving Grounds Index.md",
+    "Writeups/Proving Grounds/Linux/Linux Index.md",
+    "Writeups/HackTheBox/Lessons Learned.md",
+    "README.md",
+    "Attachments/Pasted image 20240906224342.png",
+    "Attachments/Pasted image 20240906213828.png",
+    "Writeups/Proving Grounds/Windows/Internal/Lessons Learned.md",
+    "Attachments/Pasted image 20240906223523.png",
+    "Writeups/TryHackMe/Lessons Learned.md",
+    "Exam/Exam Index.md",
+    "Writeups/Proving Grounds/Lessons Learned.md",
+    "Exam/AD/AD Loot.md",
+    "Exam/AD/AD Flags.md",
+    "Exam/AD/AD Domain Index.md",
+    "Writeups/Proving Grounds/Windows/Internal/10 - Website.md",
+    "Exam/AD/Client 0/00 - Overview.md",
+    "Exam/AD/Client 0/05 - Enumeration.md",
+    "Exam/AD/Client 0/Client 0 Index.md",
+    "Writeups/Proving Grounds/Windows/Internal",
+    "Writeups/Proving Grounds/Windows/Internal.md",
+    "Writeups/Proving Grounds/Linux",
+    "Writeups/Proving Grounds/Windows",
+    "Writeups/Proving Grounds/Windows.md",
+    "Exam/AD/Client 1/05 - Enumeration.md",
+    "Exam/AD/Client 1/00 - Overview.md",
+    "Resources/Reports Templates.md",
+    "Resources/Exam Tips.md",
+    "Projects/Malware",
+    "Writeups/TryHackMe",
+    "Writeups/HackTheBox",
+    "Writeups/Proving Grounds",
+    "Projects",
+    "Writeups",
+    "Resources",
+    "Pasted image 20240906213827.png",
+    "Untitled.canvas"
+  ]
+}
