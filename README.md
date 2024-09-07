@@ -11,14 +11,14 @@ https://github.com/Twigonometry/OSCP-Notes-Template/tree/main
 
 We will base our structure on his template but we will modify it as needed.
 
-![Pasted image 20240906213828.png](Attachments/Pasted image 20240906213828.png)
+[Screenshot]
 
 Above you can see the basic structure of the exam folder which I will use during my OSCP-Exam.
 ## Writeups
 
 Here I will find the write up of the machine I already pwnd and all the lessons I learned on the way.
 
-![Pasted image 20240906224342.png](Attachments/Pasted image 20240906224342.png)
+[Screenshot]
 
 We will use this structure for all machines we encounter.
 ## Projects
@@ -34,4 +34,4 @@ At the moment it is still empty.
 - [ ] **Think about a structure for the projects folder**
 - [ ] Add Exam Details and Tips
 - [ ] Add Links to Report Templates
-- [ ] Upload the vault to my private repo
+- [x] Upload the vault to my private repo
