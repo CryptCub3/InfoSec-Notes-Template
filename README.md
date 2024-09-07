@@ -11,14 +11,14 @@ https://github.com/Twigonometry/OSCP-Notes-Template/tree/main
 
 We will base our structure on his template but we will modify it as needed.
 
-[Screenshot]
+![EXAM](https://github.com/CryptCub3/InfoSec-Notes-Template/blob/main/Attachments/Pasted%20image%2020240906213828.png)
 
 Above you can see the basic structure of the exam folder which I will use during my OSCP-Exam.
 ## Writeups
 
 Here I will find the write up of the machine I already pwnd and all the lessons I learned on the way.
 
-[Screenshot]
+[WRITEUPS](https://github.com/CryptCub3/InfoSec-Notes-Template/blob/main/Attachments/Pasted%20image%2020240906224342.png)
 
 We will use this structure for all machines we encounter.
 ## Projects
